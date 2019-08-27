@@ -38,8 +38,9 @@ var a = 30;
 2) #
 var a = 30;
 function some(){
-    console.log(a); // Undefined
+    console.log(a); // 30
 }
+some()
 ```
 
 ```javascript
